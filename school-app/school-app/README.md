@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+This school-app code is a simple school management application that can be used to add, change, remove or edit students, classes, exams etc.
