@@ -1,0 +1,1 @@
+This school-app code is a simple school management application that can be used to add, change, remove or edit students, classes, exams etc.
